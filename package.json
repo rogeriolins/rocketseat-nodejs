@@ -1,0 +1,15 @@
+{
+  "name": "nodeJSChallenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rogeriolins/rocketseat-nodejs.git",
+  "author": "Rogerio Lins <rogerio@prologic.com.br>",
+  "license": "MIT",
+  "dev": "nodemon index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
